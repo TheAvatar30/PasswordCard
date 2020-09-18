@@ -3,12 +3,13 @@ import random as rnd
 def main():
     #generateWithSeed(60, 20, "")
     generate(60, 20)
+    #printCard()
 
 def generate(x: int, y: int):
     file = open("PCard.txt", "w")
     file.write("    ")
     for i in range(x):
-        if((i+1)%10 == 0):
+        if((i%10) == 9):
             file.write(f"{int(i/10)+1} ")
         else:
             file.write("  ")
@@ -46,8 +47,8 @@ def printCard():
     content = file.read()
     file.close()
 
-    print(content)
 
+    print(content+f"\n\nThe File's Size is {len(content)} Bytes")
 
 if __name__ == '__main__':
     main()
