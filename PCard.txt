@@ -1,0 +1,23 @@
+                       1                   2                   3                   4                   5 
+     1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 
+
+01   ~ , = S X E x ` " H S G n M p $ m % ! L Q Z d g ` C 2 n H 9 F E h | J R ^ ) 4 _ ] 5 | x M v @ r y o 
+02   * a ; T K D Z ~ ' 0 [ / i w 0 W N G v s ' w + } l 1 U _ x a 7 = . : ' n I O S u > S Q G m E W # y v 
+03   ' 6 z @ [ L k _ k U K V ^ ? 7 M > 2 6 N C w g } A ^ X + g D R ! - t + $ l o I [ 3 x @ > j % t J S 7 
+04   9 [ o d H x ; y C ' \ o @ / E ) C c 4 5 l e P o ? > q ? . T ] J M s 4 P t w y r m C K Y t G O u } 9 
+05   2 O % a 5 i Z I 2 $ 6 ] b ~ J B S | J $ ' p W \ v T : h ^ A B w l 1 A O = H ] 7 & T M = = j k : a c 
+06   I q N 4 @ 7 S . o d R - 8 c % D $ 0 w p u y | E f ` r - x ? d a \ Y 5 { r x { z T Z Q L 9 J E 9 w ~ 
+07   e x U R u ~ H y V 9 6 h K . p $ 2 g # 1 8 S E z ' 1 : j k J = L A 6 8 o < } $ { Y R B ^ 9 U ' | ] _ 
+08   e | a z @ 4 O > ! I b W 8 E X f _ G K ; - t . % p V P i w \ # H q & m R 5 O j J U & l j b m c ? s V 
+09   q s v } ( + ^ U j E Y . ~ K K 4 ; u | ; { ! e g Q L i k # v + v x n Z b $ & M ' > * / ? / $ ? e & % 
+10   t ` a % Z R % b Y ~ O u H z ^ E \ g S [ z e T - m ^ n y + Q i c < p / - ? W q i h r u \ ; K 0 E j D 
+11   r c v k y : i u < j 9 p ; 8 " Q t I g ( & j N : O B ; n | b F 8 } F H z g # 7 E ' T z M g L q k { T 
+12   * a ] R B _ Y q p ) ? b | [ [ R N > ! g A E z @ y | V h n H u / 2 9 a B # s P I j [ F ) 5 : U q ' Q 
+13   u ^ * % g 2 1 & & U S \ Q q } t | l Y ' g i E " # 9 Y ) 7 s 1 | ] B = A [ m + \ = | 2 P # 9 ' > i T 
+14   ? * I 2 Z C V i R 9 M D W , p ` b f D - \ ' D O } 1 J & k d 3 " x / ? F < E S # O @ = s u G A K / E 
+15   T < 9 e ^ ^ 4 X Z S ? / z c o 7 R : b ] A q ] 3 ? E D p N l ! { x ^ : e P R l - % S 2 ] ) N ( 3 e g 
+16   ^ 6 = x ( 4 C y w z . o w w y M v C p u 6 > ` | ' 0 3 A F \ z 4 c ^ | U ~ ` d , q S Q { U n o ( u : 
+17   + S ' % ; b } b < D Z c ] T e I U G 6 v / y C H : k R o = p 4 r q # 5 i 9 0 q S 7 ; C 1 < < J % E } 
+18   x ? ' f K $ o < N s ] ! 8 | F / e m ; ` x 8 r k > w 6 r ; L $ 4 y x | 6 a ~ G _ t : 1 q m y l l $ L 
+19   T J 6 ] { V & Y j > f ) $ x v X W 1 ^ u 5 o 6 X W J V 5 a { z ~ p 1 ) / Q 5 P L ; ! G U M _ w # 2 _ 
+20   X 9 - W r [ t ; / I z _ " ! N " A < w ~ h e 2 S U t : * K # r 1 d & 3 ; 4 e T - ; i ! ) A 5 { R + 6 

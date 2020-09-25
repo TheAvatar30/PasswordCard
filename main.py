@@ -1,21 +1,23 @@
 import random as rnd
 
+
 def main():
-    #generateWithSeed(60, 20, "")
-    generate(60, 20)
+    #generateWithSeed(50, 20, "")
+    generate(50, 20)
     #printCard()
+
 
 def generate(x: int, y: int):
     file = open("PCard.txt", "w")
-    file.write("    ")
+    file.write("     ")
     for i in range(x):
-        if((i%10) == 9):
-            file.write(f"{int(i/10)+1} ")
+        if ((i % 10) == 9):
+            file.write(f"{int(i / 10) + 1} ")
         else:
             file.write("  ")
-    file.write("\n    ")
+    file.write("\n     ")
     for i in range(x):
-        file.write(f"{(i+1)%10} ")
+        file.write(f"{(i + 1) % 10} ")
     file.write("\n\n")
 
     for j in range(y):
@@ -24,14 +26,23 @@ def generate(x: int, y: int):
             tmp = rnd.randint(33, 126)
             c = chr(tmp)
             s += c + " "
-        file.write(f"{(j+1)%10}   "+s + "\n")
+        file.write(f"{(j+1)//10}{(j+1)%10}   " + s + "\n")
+
 
 def generateWithSeed(x: int, y: int, seed: str):
+    locals()
+
     rnd.seed(seed, 2)
     file = open("PCard.txt", "w")
-    file.write("    ")
+    file.write("     ")
     for i in range(x):
-        file.write(f"{(i+1)%10} ")
+        if ((i % 10) == 9):
+            file.write(f"{int(i / 10) + 1} ")
+        else:
+            file.write("  ")
+    file.write("\n     ")
+    for i in range(x):
+        file.write(f"{(i + 1) % 10} ")
     file.write("\n\n")
 
     for j in range(y):
@@ -40,15 +51,15 @@ def generateWithSeed(x: int, y: int, seed: str):
             tmp = rnd.randint(33, 126)
             c = chr(tmp)
             s += c + " "
-        file.write(f"{(j+1)%10}   "+s + "\n")
+        file.write(f"{(j+1)//10}{(j+1)%10}   " + s + "\n")
 
 def printCard():
     file = open("PCard.txt")
     content = file.read()
     file.close()
 
+    print(content + f"\n\nThe File's Size is {len(content)} Bytes")
 
-    print(content+f"\n\nThe File's Size is {len(content)} Bytes")
 
 if __name__ == '__main__':
     main()
